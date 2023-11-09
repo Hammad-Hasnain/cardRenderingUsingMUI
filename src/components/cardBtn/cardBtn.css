@@ -1,0 +1,15 @@
+.buy-btn {
+    border: none;
+    background-color: #ff4500;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.buy-btn:hover {
+    box-shadow: 0 0 8px #000;
+    background-color: #f46506;
+    
+}
+
